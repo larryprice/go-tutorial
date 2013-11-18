@@ -1,4 +1,4 @@
 go-tutorial
 ===========
 
-Dump for go tutorials.
+Dump for go from [Google](http://golang.org/doc/code.html).
